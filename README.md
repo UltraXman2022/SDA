@@ -77,7 +77,8 @@ Remember! Megaline rounds seconds up to minutes, and megabytes to gigabytes. For
 <ul><li>id — unique session identifier</li>
 <li>mb_used — the volume of data spent during the session (in megabytes)</li>
 <li>session_date — web session date</li>
-<li>user_id — user identifier</li>
+<li>user_id — user identifier</ul></li>
+  
 <h4>The plans table (data on the plans):</h4>
 <ul><li>plan_name — calling plan name</li>
 <li>usd_monthly_fee — monthly charge in US dollars</li>
