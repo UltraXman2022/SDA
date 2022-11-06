@@ -6,19 +6,19 @@ You are going to carry out a preliminary analysis of the plans based on a relati
 <h2>Description of the plans</h2>
 Note: Megaline rounds seconds up to minutes, and megabytes to gigabytes. For calls, each individual call is rounded up: even if the call lasted just one second, it will be counted as one minute. For web traffic, individual web sessions are not rounded up. Instead, the total for the month is rounded up. If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.
 <h3>Surf</h3>
-<ol><il>Monthly charge: $20</il>
-<il>500 monthly minutes, 50 texts, and 15 GB of data</il>
-<il>After exceeding the package limits:</il></ol>
-<ul><li>1 minute: 3 cents</il>
-<li>1 text message: 3 cents</il>
+<ol><li>Monthly charge: $20</li>
+<li>500 monthly minutes, 50 texts, and 15 GB of data</li>
+<li>After exceeding the package limits:</li></ol>
+<ul><li>1 minute: 3 cents</li>
+<li>1 text message: 3 cents</li>
 <li>1 GB of data: $10</il></ul>
 <h3>Ultimate</h3>
-<ol><li>Monthly charge: $70
+<ol><li>Monthly charge: $70</li>
 <li>3000 monthly minutes, 1000 text messages, and 30 GB of data</il>
-<li>After exceeding the package limits:</il></ol>
-<ul><li>1 minute: 1 cent</il>
-<li>1 text message: 1 cent</il>
-<li>1 GB of data: $7</il></ul>
+<li>After exceeding the package limits:</li></ol>
+<ul><li>1 minute: 1 cent</li>
+<li>1 text message: 1 cent</li>
+<li>1 GB of data: $7</li></ul>
 Instructions on completing the project
 Step 1. Open the data file and study the general information
 File path:
