@@ -1,6 +1,7 @@
 <h1>Project description</h1>
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
 
+
 You are going to carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Your job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
 
 <h2>Description of the plans</h2>
@@ -19,23 +20,24 @@ Note: Megaline rounds seconds up to minutes, and megabytes to gigabytes. For cal
 <ul><li>1 minute: 1 cent</li>
 <li>1 text message: 1 cent</li>
 <li>1 GB of data: $7</li></ul>
-Instructions on completing the project
-Step 1. Open the data file and study the general information
+
+<h2>Instructions on completing the project</h2>
+<h3>Step 1. Open the data file and study the general information</h3>
 File path:
 /datasets/megaline_calls.csv Download dataset
 /datasets/megaline_internet.csv Download dataset
 /datasets/megaline_messages.csv Download dataset
 /datasets/megaline_plans.csv Download dataset
 /datasets/megaline_users.csv Download dataset
-Step 2. Prepare the data
-Convert the data to the necessary types
-Find and eliminate errors in the data
+<h3>Step 2. Prepare the data</h3>
+<ul><li>Convert the data to the necessary types</il>
+<li>Find and eliminate errors in the data</li></ul>
 Explain what errors you found and how you removed them.
 For each user, find:
-The number of calls made and minutes used per month
-The number of text messages sent per month
-The volume of data per month
-The monthly revenue from each user (subtract the free package limit from the total number of calls, text messages, and data; multiply the result by the calling plan value; add the monthly charge depending on the calling plan)
+<ul><li>The number of calls made and minutes used per month</il>
+<li>The number of text messages sent per month</il>
+<li>The volume of data per month</il>
+<li>The monthly revenue from each user (subtract the free package limit from the total number of calls, text messages, and data; multiply the result by the calling plan value; add the monthly charge depending on the calling plan)<ul></il>
 Step 3. Analyze the data
 Describe the customers' behavior. Find the minutes, texts, and volume of data the users of each plan require per month. Calculate the mean, variance, and standard deviation. Plot histograms. Describe the distributions.
 Step 4. Test the hypotheses
